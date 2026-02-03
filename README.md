@@ -4,6 +4,8 @@ Created an Excel dashboard to understand sales, profit, and category performance
 
 # E-Commerce Sales Analysis Dashboard (Excel)
 ## Dashboard Preview
+The dashboard includes KPI cards and trend charts to track performance over time.
+
 ![Full Dashboard](./E-Commerce%20Sales%20Dashboard.PNG)
 
 
