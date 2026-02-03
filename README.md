@@ -3,6 +3,9 @@
 Created an Excel dashboard to understand sales, profit, and category performance and answer common business questions.
 
 # E-Commerce Sales Analysis Dashboard (Excel)
+## Dashboard Preview
+![Full Dashboard](./E-Commerce%20Sales%20Dashboard.PNG)
+
 
 ## Project Overview
 This project is an Excel dashboard created to analyze e-commerce sales data and understand overall business performance. The dashboard helps track sales, profit, quantity sold, number of orders, and profit margin using interactive visuals.
@@ -10,6 +13,8 @@ This project is an Excel dashboard created to analyze e-commerce sales data and 
 **Business Questions Answered**
 
 - How are sales and profits changing over time?
+ ![Pivot Tables and Charts 1](./PIVOT%20TABLE%20AND%20CHARTS_1.PNG)
+
 - Which product categories generate the most profit?
 - What are the top-performing sub-categories?
 - Which states contribute the highest sales?
